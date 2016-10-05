@@ -1,0 +1,1 @@
+<cfoutput>Cookies are enabled: #IsDefined( "Cookie.cookies_enabled" )#</cfoutput>

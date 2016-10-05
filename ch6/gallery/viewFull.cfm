@@ -1,0 +1,1 @@
+<cfoutput><img src="images/#URL.ImageFullSrc#" border="0"></cfoutput>

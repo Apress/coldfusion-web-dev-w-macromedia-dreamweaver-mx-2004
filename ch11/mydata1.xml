@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<figs>
+  <employee fname="Simon" lname="Horwith" />
+  <employee fname="Dave" lname="Watts" />
+  <contractor fname="Charles" lname="Arehart" />
+  <contractor fname="Branden" lname="Hall" />
+  <employee fname="Steve" lname="Drucker" />
+</figs>

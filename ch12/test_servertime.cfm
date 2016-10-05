@@ -1,0 +1,1 @@
+<cfinvoke component="cfbook.ch12.servertime" method="getServerTime"          returnvariable="currentServerTime" /><cfdump var="#currentServerTime#">

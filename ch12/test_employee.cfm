@@ -1,0 +1,1 @@
+<cfinvoke component="cfbook.ch12.employee" method="getEmployees" returnvariable="employee_rs" /><cfdump var="#employee_rs#">

@@ -1,0 +1,1 @@
+<cfcomponent>  <cffunction access="remote" name="getEmployees" output="false" returntype="query">    <cfset returnQuery = "" >    <cfquery name="returnQuery" datasource="CompanyInfo">    SELECT E.* FROM Employee E ORDER BY E.LastName ASC, E.FirstName ASC    </cfquery>    <cfreturn returnQuery >  </cffunction></cfcomponent>

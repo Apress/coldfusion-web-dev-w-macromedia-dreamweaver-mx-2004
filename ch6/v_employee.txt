@@ -1,0 +1,7 @@
+SELECT
+E.Emp_ID, E.FirstName, E.LastName, E.Salary, E.StartDate, E.Contract,
+D.Dept_ID, D.Dept_Name, D.Location
+FROM
+Employee E, Departmt D
+WHERE
+E.Dept_ID = D.Dept_ID

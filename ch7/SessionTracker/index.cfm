@@ -1,0 +1,1 @@
+<cfoutput>There are currently #Request.numOnlineUsers# active user(s) online.</cfoutput>

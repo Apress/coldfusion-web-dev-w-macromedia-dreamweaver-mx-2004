@@ -1,0 +1,1 @@
+<WeatherInfo 	Location="1" 	IconIndex="stringVal" 	Temprature="stringVal" 	FeelsLike="stringVal" 	ForeCast="stringVal" 	Visibility="stringVal" 	Pressure="stringVal" 	DewPoint="stringVal"	UVIndex="stringVal"	Humidity="stringVal"	Wind="stringVal"	ReportedAt="stringVal"	LastUpdated="stringVal"/>    

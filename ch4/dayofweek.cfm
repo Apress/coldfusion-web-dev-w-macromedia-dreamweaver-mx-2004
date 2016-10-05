@@ -1,0 +1,1 @@
+<cfoutput>#DayOfWeekAsString( DayOfWeek( Now() ) )#</cfoutput>

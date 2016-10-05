@@ -1,0 +1,1 @@
+<cfoutput>#DateFormat( CreateDate( 2003, 12, 25), "mmm d, yyyy" )#</cfoutput>
